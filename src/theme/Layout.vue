@@ -2,7 +2,7 @@
   <div>
     <nav class="nav has-shadow">
       <div class="container">
-        container section
+        <router-view></router-view>
       </div>
     </nav>
     <section class="main-section section"></section>
